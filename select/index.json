@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "0.5 byou no koi",
+  "base_artist": "SID",
+  "createdAt": "2026-02-08T15:02:55.991646Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "5-7-0-5",
+      "artist": "City Boy",
+      "has_synced": true,
+      "path": "select/01_5-7-0-5_City_Boy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "5.7.0.5",
+      "artist": "City Boy",
+      "has_synced": false,
+      "path": "select/02_5.7.0.5_City_Boy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "5.7.0.5",
+      "artist": "City Boy",
+      "has_synced": true,
+      "path": "select/03_5.7.0.5_City_Boy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "5 7 0 5",
+      "artist": "City Boy",
+      "has_synced": true,
+      "path": "select/04_5_7_0_5_City_Boy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "5.7.0.5.",
+      "artist": "City Boy",
+      "has_synced": true,
+      "path": "select/05_5.7.0.5._City_Boy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "5.7.0.5.",
+      "artist": "City Boy",
+      "has_synced": true,
+      "path": "select/06_5.7.0.5._City_Boy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "5.7.0.5.- City Boy",
+      "artist": "City Boy",
+      "has_synced": true,
+      "path": "select/07_5.7.0.5.-_City_Boy_City_Boy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Fear 0,5",
+      "artist": "BURNOUT OSTWEST",
+      "has_synced": true,
+      "path": "select/08_No_Fear_0,5_BURNOUT_OSTWEST.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "5.7.0.5",
+      "artist": "City Boy",
+      "has_synced": false,
+      "path": "select/09_5.7.0.5_City_Boy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "5.0.5. P.M.",
+      "artist": "Velasco, Lia",
+      "has_synced": true,
+      "path": "select/10_5.0.5._P.M._Velasco,_Lia.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "5.0.5. P.M.",
+      "artist": "Lia Velasco",
+      "has_synced": true,
+      "path": "select/11_5.0.5._P.M._Lia_Velasco.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "More (feat. Freck the Billionaire) (Main Version with Rap-Varispeed 0.5 Version)",
+      "artist": "Tamia",
+      "has_synced": true,
+      "path": "select/12_More_(feat._Freck_the_Billionaire)_(Main_Version_with_Rap-Varispeed_0.5_Version)_Tamia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "0.5秒の恋",
+      "artist": "シド",
+      "has_synced": false,
+      "path": "select/pl_01_0.5秒の恋_シド.txt"
+    }
+  ]
+}
